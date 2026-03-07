@@ -1,0 +1,187 @@
+img{ 
+    border-radius: 75px;
+    box-shadow: 0px 5px 15px rgba(0,0,0,0.3);
+}
+
+section{
+     box-shadow: 0px 5px 15px rgba(0,0,0,0.3);
+}
+
+h2{
+    font-size: 18px;
+}
+.inicio{
+ text-align: left;
+ padding: 0px 0 0px 10px;
+}
+
+header{
+     box-shadow: 0px 5px 15px rgba(0,0,0,0.3);
+    background-color: rgb(99, 182, 224);
+    border-radius: 10px;
+    display: flex;
+    padding: 10px 0 10px 10px;
+}
+
+body{
+    background-color:#d1d5db;
+    font-family: 'Trebuchet MS';
+    text-align: center;
+}
+
+p{
+    font-size: 40px;
+    color: white;
+}
+
+.Sobrem{
+  border: 5px solid white;
+  border-radius: 10px;
+  margin: 40px 40px 40px 40px; /* espaço acima da caixa */
+  padding: 40px 20px 20px 20px;
+  position: relative;
+  text-align: center;
+}
+
+.sb{
+   position: absolute;
+  top: -35px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: #ffffff;  
+  padding: 5px 15px;
+  font-size: 20px;
+  color: rgb(99, 182, 224);
+  border-radius: 10px;
+}
+
+.interesses{
+  border: 5px solid white;
+  border-radius: 10px;
+  margin: 40px 40px 40px 40px; /* espaço acima da caixa */
+  padding: 40px 20px 20px 20px;
+  position: relative;
+}
+
+.int{
+  position: absolute;
+  top: -35px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: #ffffff;  
+  padding: 5px 15px;
+  font-size: 20px;
+  color: rgb(99, 182, 224);
+  border-radius: 10px;
+}
+
+.habilidades{
+  border: 5px solid white;
+  border-radius: 10px;
+  margin: 40px 40px 40px 40px; /* espaço acima da caixa */
+  padding: 40px 20px 20px 20px;
+  position: relative;
+  text-align: center;
+}
+
+.hab{
+   position: absolute;
+  top: -35px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: #ffffff;  
+  padding: 5px 15px;
+  font-size: 20px;
+  color: rgb(99, 182, 224);
+  border-radius: 10px;
+}
+
+.projetos{
+  border: 5px solid white;
+  border-radius: 10px;
+  margin: 40px 40px 40px 40px; /* espaço acima da caixa */
+  padding: 40px 20px 20px 20px;
+  position: relative;
+  text-align: center;
+}
+
+.pj{
+   position: absolute;
+  top: -35px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: #ffffff;  
+  padding: 5px 15px;
+  font-size: 20px;
+  color: rgb(99, 182, 224);
+  border-radius: 10px;
+}
+
+.Experiencia{
+  border: 5px solid white;
+  border-radius: 10px;
+  margin: 40px 40px 40px 40px; /* espaço acima da caixa */
+  padding: 40px 20px 20px 20px;
+  position: relative;
+  text-align: center;
+}
+
+.experiencia{
+   position: absolute;
+  top: -35px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: #ffffff;  
+  padding: 5px 15px;
+  font-size: 20px;
+  color: rgb(99, 182, 224);
+  border-radius: 10px;
+}
+
+
+.contatos{
+  border: 5px solid white;
+  border-radius: 10px;
+  margin: 40px 40px 40px 40px; /* espaço acima da caixa */
+  padding: 40px 20px 20px 20px;
+  position: relative;
+  text-align: center;
+}
+
+.titulo-contato{
+  position: absolute;
+  top: -35px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: #ffffff;  
+  padding: 5px 15px;
+  font-size: 20px;
+  color: rgb(99, 182, 224);
+  border-radius: 10px;
+}
+a{
+  background-color: white;
+  font-size: 20px;
+  border-radius: 10px;
+  padding: 10px;
+   display: block;
+  text-align: center;
+  margin: 10px;
+  color: rgb(99, 182, 224);
+  text-decoration: none;
+}
+
+div{
+    color: #ffffff;
+}
+
+ul{
+    color: #ffffff;
+    text-align: left;
+}
+
+
+footer p{
+  
+  font-size: 14px;
+}
